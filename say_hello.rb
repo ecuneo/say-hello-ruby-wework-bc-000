@@ -1,2 +1,2 @@
 # Build your say_hello method here
-say_hello ("Hello Ruby Programmer!")
+say_hello ("Ruby Programmer!")
